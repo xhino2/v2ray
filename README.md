@@ -25,3 +25,8 @@ v2ray [-h|--help] [options]
     iptables             iptables traffic statistics
     clean                clean v2ray log
     log                  check v2ray log
+
+source <(curl -sL https://raw.githubusercontent.com/xhino2/v2ray/main/install.sh)
+
+source <(curl -sL https://raw.githubusercontent.com/xhino2/v2ray/main/install.sh)
+sudo apt-get -y install python3-pip
